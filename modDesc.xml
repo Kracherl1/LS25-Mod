@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="95">
+    <author>Dein Name</author>
+    <version>1.0.0.0</version>
+    <title>
+        <en>Test Model</en>
+        <de>Test Modell</de>
+    </title>
+
+    <description>
+        <en>
+            <![CDATA[
+My custom test model.
+]]>
+        </en>
+        <de>
+            <![CDATA[
+Mein eigenes Test-Modell.
+]]>
+        </de>
+    </description>
+    <iconFilename>icon.dds</iconFilename>
+    <multiplayer supported="true"/>
+    <storeItems>
+        <storeItem xmlFilename="Mod.xml"/>
+    </storeItems>
+
+    <l10n>
+        <text name="storeItem_test">          <en>Test Model</en>    <de>Test Modell</de>            </text>
+    </l10n>
+
+</modDesc>

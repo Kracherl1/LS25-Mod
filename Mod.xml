@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<placeable type="default" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../shared/xml/schema/placeable.xsd">
+
+    <storeData>
+        <name>storeItem_test</name>
+        <functions>
+            <function>Dekoration</function>
+        </functions>
+        <image>/icon.dds</image>
+        <price>0</price>
+        <dailyUpkeep>0</dailyUpkeep>
+        <lifetime>1000</lifetime>
+        <species>placeable</species>
+        <boughtWithFarmland>true</boughtWithFarmland>
+    </storeData>
+
+    <base>
+        <filename>modell/test.i3d</filename>
+    </base>
+
+    <placement>
+        <testAreas>
+        </testAreas>
+    </placement>
+
+    <clearAreas>
+    </clearAreas>
+
+    <leveling>
+    </leveling>
+
+    <indoorAreas>
+    </indoorAreas>
+
+</placeable>
