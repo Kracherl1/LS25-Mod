@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="116">
+    <author>Raphi, Philipp</author>
+    <title>
+        <en>Test</en>
+        <de>Test</de>
+    </title>
+    <description>
+        <en>A simple test mod.</en>
+        <de>Ein einfacher Test-Mod.</de>
+    </description>
+    <iconFilename>icon.dds</iconFilename>
+    <multiplayer supported="true"/>
+
+    <placeables>
+        <placeable filename="test.xml"/>
+    </placeables>
+</modDesc>
