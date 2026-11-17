@@ -1,2 +1,2 @@
 # LS25-Mod
-Des is a Mod 
+LS25 Stall
